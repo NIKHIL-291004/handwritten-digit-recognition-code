@@ -73,7 +73,6 @@ The CNN model consists of:
 ---
 
 ## 📈 Results & Performance
-
 - **Training Accuracy:** ~99%
 - **Validation Accuracy:** ~98–99%
 - **Test Accuracy:** >98%
